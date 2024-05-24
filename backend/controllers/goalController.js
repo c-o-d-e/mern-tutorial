@@ -23,7 +23,7 @@ const updateGoal = (req, res) => {
 };
 
 // @desc Delete goal
-// @route DEL /api/goal/:id
+// @route DEL /api/goals/:id
 // @access Private
 
 const deleteGoal = (req, res) => {
